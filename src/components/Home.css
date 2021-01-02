@@ -1,0 +1,43 @@
+.home {
+    width: 100%;
+    height: 92vh;
+    background: url("https://images.hdqwalls.com/wallpapers/code-syntax-dark-minimal-4k-mr.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    color: #1dbfaf;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(255, 255, 255, 0.5);
+    opacity: 0.8;
+}
+
+.home > img {
+    width: 250px;
+    height: 260px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #313c4e;
+    margin-top: -80px;
+    /*
+    position: absolute;
+    top: 30%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    */
+}
+
+.home > h1 {
+    font-size: 50px;
+    margin-bottom: -190px;
+    letter-spacing: 2px;
+}
+
+.home > p {
+    color: white;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
