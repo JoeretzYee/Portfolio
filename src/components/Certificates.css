@@ -1,0 +1,51 @@
+.certificates {
+    font-family: "Overpass", sans-serif;
+    width: 100%;
+    height: fit-content;
+    background-color: #222a33;
+    padding: 20px;
+    color: #1dbfaf;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.certificates__content {
+    width: 80%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.cert__image {
+    object-fit: contain;
+    width: 500px !important;
+    height: 400px !important;
+}
+
+.certificates__cards {
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-items: space-around;
+    flex-wrap: wrap;
+}
+
+.card-reveal {
+    background: #222a33 !important;
+    color: #1dbfaf !important;
+}
+
+.material-icons {
+    color: white !important;
+}
+
+.card {
+    background: #222a33 !important;
+}
+
+.card-title {
+    color: #1dbfaf !important;
+}

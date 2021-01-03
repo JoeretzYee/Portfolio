@@ -1,0 +1,25 @@
+.skills {
+    font-family: "Overpass", sans-serif;
+    width: 100%;
+    height: fit-content;
+
+    background-color: #222a33;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills__content {
+    width: 50%;
+    height: fit-content;
+}
+
+th {
+    color: #1dbfaf;
+}
+
+h1 {
+    color: #1dbfaf;
+    text-align: center;
+}

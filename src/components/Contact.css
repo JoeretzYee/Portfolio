@@ -1,0 +1,35 @@
+.contact {
+    font-family: "Overpass", sans-serif;
+    width: 100%;
+    height: fit-content;
+
+    background-color: #222a33;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact__content > h1 {
+    text-align: center;
+    color: #1dbfaf;
+}
+
+.contact__content {
+    width: 50%;
+    height: fit-content;
+}
+
+.collection {
+    border: none !important;
+}
+
+.collection-item {
+    color: white !important;
+    background-color: #222a33 !important;
+}
+
+.material-icons {
+    margin-right: 10px;
+    color: #1dbfaf;
+}

@@ -1,0 +1,13 @@
+.card {
+    width: 30rem;
+    background-color: #222a33 !important;
+}
+
+.card-reveal {
+    background: #222a33 !important;
+    color: #1dbfaf !important;
+}
+
+.card-title {
+    color: #1dbfaf !important;
+}

@@ -1,0 +1,26 @@
+.personalProjects {
+    font-family: "Overpass", sans-serif;
+    width: 100%;
+    height: fit-content;
+
+    background-color: #222a33;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.personalProjects > h1 {
+    text-align: center;
+    color: #1dbfaf;
+}
+
+.personalProjects__content {
+    width: 80%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
