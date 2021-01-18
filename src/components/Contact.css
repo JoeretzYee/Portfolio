@@ -33,3 +33,9 @@
     margin-right: 10px;
     color: #1dbfaf;
 }
+
+.fa {
+    font-size: 2rem;
+    margin-right: 10px !important;
+    color: #1dbfaf !important;
+}

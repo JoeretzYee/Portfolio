@@ -16,6 +16,9 @@
                     <i class="material-icons">house</i>Marvel Homes, Davao De
                     Oro</a
                 >
+                <a class="collection-item">
+                    <i class="fa fa-github"></i> github.com/JoeretzYee</a
+                >
             </div>
         </div>
     </div>
